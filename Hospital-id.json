@@ -4,7 +4,7 @@
     "$metadata": {
       "uris": {
         "jsonLdContext": "https://raw.githubusercontent.com/PratyushNag/Buidl-irl-PolygonID/main/Hospital-id.jsonld",
-        "jsonSchema": "https://raw.githubusercontent.com/Sud0-AP/BUIDL-IRL-PolygonID/master/manipal-university-college-id.json"
+        "jsonSchema": "https://raw.githubusercontent.com/PratyushNag/Buidl-irl-PolygonID/main/Hospital-id.json"
       }
     },
     "required": [

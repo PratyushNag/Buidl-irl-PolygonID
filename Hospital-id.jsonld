@@ -6,13 +6,13 @@
         "id": "@id",
         "type": "@type",
         "IDHospital": {
-          "@id": "https://raw.githubusercontent.com/Sud0-AP/BUIDL-IRL-PolygonID/master/manipal-university-college-id.jsonld#collegeID",
+          "@id": "https://raw.githubusercontent.com/PratyushNag/Buidl-irl-PolygonID/main/Hospital-id.jsonld",
           "@context": {
             "@version": 1.1,
             "@protected": true,
             "id": "@id",
             "type": "@type",
-            "vocab": "https://github.com/Sud0-AP/BUIDL-IRL-PolygonID/blob/master/manipal-university-college-id-vocab.md#",
+            "vocab": "https://github.com/PratyushNag/Buidl-irl-PolygonID/blob/main/Hospital-id-vocab.md",
             "xsd": "http://www.w3.org/2001/XMLSchema#",
             "HospitalID": {
               "@id": "vocab:HospitalID",

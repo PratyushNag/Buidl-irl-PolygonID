@@ -1,1 +1,1 @@
-# Buidl-irl-PolygonID
+# Polygon ID Schema and verifier
